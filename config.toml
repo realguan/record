@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://super-flower-5123.on.fleek.co/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "pickles"
