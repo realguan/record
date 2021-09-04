@@ -1,4 +1,4 @@
-baseURL = 'https://super-flower-5123.on.fleek.co/'
-languageCode = 'en-us'
+baseURL = 'https://realguan.on.fleek.co/'
+languageCode = 'zh-cn'
 title = 'My New Hugo Site'
 theme = "pickles"
